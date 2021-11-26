@@ -1,2 +1,2 @@
 # odin-recipes
-A simple website for recipes
+A simple website for recipes!
